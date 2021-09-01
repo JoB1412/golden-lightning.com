@@ -1,0 +1,17 @@
+body {
+    background-image: url("img/ECU.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: Arial;
+}
+
+#content {
+    margin-left: 120px;
+    font-size: 1vw;
+}
+
+a {
+    text-decoration: none;
+}

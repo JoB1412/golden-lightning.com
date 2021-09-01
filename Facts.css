@@ -1,0 +1,18 @@
+body {
+    background-image: url("img/facts.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: Arial;
+}
+
+#content {
+    margin-left: 135px;
+    font-size: 1vw;
+
+}
+
+a {
+    text-decoration: none;
+}

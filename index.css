@@ -1,0 +1,30 @@
+body {
+    background-image: url("img/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: Arial;
+
+}
+#header {
+    position: absolute;
+}
+
+#nav {
+    text-align: center;
+    font-size: 1vw;
+    
+}
+
+h1 {
+    font-size: 70px;
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 4vw;
+}
+
+a {
+    text-decoration: none;
+}
