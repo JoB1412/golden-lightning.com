@@ -9,7 +9,9 @@ body {
 
 #content {
     margin-left: 120px;
-    font-size: 1vw;
+    font-size: 2vw; 
+    font-size: 2vh;
+    margin-top: 60px;
 }
 
 a {
